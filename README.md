@@ -21,9 +21,9 @@ For this particular notebook, I ran through a in-depth exploratory data analysis
 
 with highest number of sales. Find seasonality trends, using transformations, PACF in order to help use for our
 
-LSTM model (PACF will help us find a statistically significant window size). We will then run through the same Exploratory
+LSTM model (PACF will help us find a statistically significant window size). We will then run through the same 
 
-Data Analysis with our added predictions.
+Exploratory Data Analysis with our added predictions.
 
 
 FILES
