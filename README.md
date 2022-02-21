@@ -1,4 +1,4 @@
-# time_series_analysis
+# Time Series Analysis
 
 Time Series Analysis on Product overtime :)
 
@@ -15,7 +15,7 @@ Purpose Statement: To run a time series analysis on Product Data and predict Q1 
                 ||----w |
                 ||     ||
 
-README
+**README**
 -------------------------------------
 For this particular notebook, I ran through a in-depth exploratory data analysis, going through days and months 
 
@@ -26,7 +26,8 @@ LSTM model (PACF will help us find a statistically significant window size). We 
 Exploratory Data Analysis with our added predictions.
 
 
-FILES
+
+**FILES**
 
 -------------------------------------
 :Nike_Time_Series.ipynb:
